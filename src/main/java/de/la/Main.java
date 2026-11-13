@@ -15,7 +15,7 @@ public class Main {
         }
 
         IO.println("Hello world");
-        IO.println("Hello World 2");
-        IO.println("Hello World 3");
+        IO.println("Hello World 4");
+        IO.println("Hello World 5");
     }
 }
